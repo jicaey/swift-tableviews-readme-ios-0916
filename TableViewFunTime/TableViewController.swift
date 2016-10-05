@@ -18,7 +18,7 @@ class TableViewController: UITableViewController {
         
         generateFavoriteSongs()
         
-    }
+    } 
     
     func generateFavoriteSongs() {
 
